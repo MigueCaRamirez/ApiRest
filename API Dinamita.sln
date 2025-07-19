@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35919.96
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "API Dinamita", "API Dinamita\API Dinamita.csproj", "{77F891DC-7586-448A-BECB-C534AA0958E7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{77F891DC-7586-448A-BECB-C534AA0958E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77F891DC-7586-448A-BECB-C534AA0958E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77F891DC-7586-448A-BECB-C534AA0958E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77F891DC-7586-448A-BECB-C534AA0958E7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {22341A27-5842-4509-AF40-CDC84CD985EF}
+	EndGlobalSection
+EndGlobal

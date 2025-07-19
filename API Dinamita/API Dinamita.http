@@ -1,0 +1,6 @@
+@API_Dinamita_HostAddress = http://localhost:5215
+
+GET {{API_Dinamita_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
